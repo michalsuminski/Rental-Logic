@@ -1,0 +1,4 @@
+C:/Users/MICHU13/Desktop/filmy/nowy/program/cmake-build-debug/CMakeFiles/Program.dir
+C:/Users/MICHU13/Desktop/filmy/nowy/program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/MICHU13/Desktop/filmy/nowy/program/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/MICHU13/Desktop/filmy/nowy/program/cmake-build-debug/CMakeFiles/edit_cache.dir
